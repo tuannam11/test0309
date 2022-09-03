@@ -7,3 +7,4 @@ mehmet
 
 hom nay chi co 4 tran 
 lai sua them file us.txt
+hom nay co tan 8 tran 

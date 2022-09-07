@@ -6,3 +6,6 @@ file
 moi 
 
 khong duoc sua gi het
+
+day la file cu roi
+file A
